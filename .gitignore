@@ -1,0 +1,19 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/.name
+*.xml
+*.css
+*.eot
+*.svg
+*.ttf
+*.woff
+*.woff2
+*.png
+*.gif
+*.html
+*.js
+*.class
+*.map
+*.ico
+target/classes/log4j.properties
+src/main/resources/log4j.properties
+springboot-mybatis.iml

@@ -17,3 +17,5 @@
 target/classes/log4j.properties
 src/main/resources/log4j.properties
 springboot-mybatis.iml
+.idea/workspace.xml___jb_tmp___
+.idea/testMC.iml

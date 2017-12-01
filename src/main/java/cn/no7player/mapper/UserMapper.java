@@ -10,4 +10,6 @@ import java.util.Map;
  */
 public interface UserMapper {
     public List<User> findUserInfo(Map<String,Object> map);
+
+    public boolean addUser(User user);
 }

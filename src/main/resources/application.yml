@@ -1,0 +1,19 @@
+jedis:
+  pool:
+    host: 192.168.10.47
+    port: 6379
+    config:
+      maxTotal: 100
+      maxIdle: 10
+      maxWaitMillis: 100000
+
+http:
+  maxTotal: 200
+  defaultMaxPerRoute: 100
+  connectionRequestTimeout: 500
+  connectTimeout: 5000
+  socketTimeout: 30000
+  staleConnectionCheckEnabled: true
+
+
+
